@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/playwithwords/static/css/main.073c9b0a.css",
+    "main.js": "/playwithwords/static/js/main.a650578b.js",
+    "static/js/787.02643c17.chunk.js": "/playwithwords/static/js/787.02643c17.chunk.js",
+    "index.html": "/playwithwords/index.html",
+    "main.073c9b0a.css.map": "/playwithwords/static/css/main.073c9b0a.css.map",
+    "main.a650578b.js.map": "/playwithwords/static/js/main.a650578b.js.map",
+    "787.02643c17.chunk.js.map": "/playwithwords/static/js/787.02643c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a650578b.js"
+  ]
+}
